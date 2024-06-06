@@ -1,0 +1,100 @@
+.container-fluid {
+  background-color: #000000;
+}
+
+#heading,
+#heading0 {
+  color: #ffffff;
+}
+
+.card {
+  /* background-color: #e8eaf6; */
+  padding-top: 0px;
+  cursor: pointer;
+}
+
+.card-name:hover {
+  color: #424242;
+}
+
+#card1 {
+  border-top: 4px solid #3d5afe !important;
+  transition: 0.5s;
+}
+
+#card1:hover {
+  box-shadow: 0 0 2px 2px #3d5afe;
+  transition: 0.5s;
+}
+
+#card2 {
+  border-top: 4px solid #00e676 !important;
+  transition: 0.5s;
+}
+
+#card2:hover {
+  box-shadow: 0 0 2px 2px #00e676;
+  transition: 0.5s;
+}
+
+#card3 {
+  border-top: 4px solid #ab47bc !important;
+  transition: 0.5s;
+}
+
+#card3:hover {
+  box-shadow: 0 0 2px 2px #ab47bc;
+  transition: 0.5s;
+}
+
+#card4 {
+  border-top: 4px solid #fbc02d !important;
+  transition: 0.5s;
+}
+
+#card4:hover {
+  box-shadow: 0 0 2px 2px #fbc02d;
+  transition: 0.5s;
+}
+
+.hex-icon {
+  background-color: black;
+  width: 30%;
+}
+
+.fa {
+  color: white;
+  /* background-color: black; */
+  width: 40px;
+  transition: 0.2s;
+}
+
+.fa:hover {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+.fa-facebook {
+  background-color: #4267b2;
+  opacity: 0.8;
+}
+
+.fa-twitter {
+  background-color: #1da1f2;
+  opacity: 0.8;
+}
+
+.fa-linkedin {
+  background-color: #0077b5;
+  opacity: 0.8;
+}
+
+.fa-pinterest {
+  background-color: #e60023;
+  opacity: 0.8;
+}
+
+/* svg {
+  height: 200px;
+  width: 240px;
+} */
