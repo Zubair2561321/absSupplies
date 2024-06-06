@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/absSubpplies/static/css/main.11de4f61.css",
-    "main.js": "/absSubpplies/static/js/main.cc120c8d.js",
-    "static/js/453.35b5c829.chunk.js": "/absSubpplies/static/js/453.35b5c829.chunk.js",
-    "static/media/safety.mp4": "/absSubpplies/static/media/safety.b6ad2f153b719ddb560d.mp4",
-    "static/media/slider3.jpg": "/absSubpplies/static/media/slider3.ab969f86c11e3e27bc92.jpg",
-    "static/media/success.png": "/absSubpplies/static/media/success.2f968d20fca873a5a69b.png",
-    "static/media/slider1.png": "/absSubpplies/static/media/slider1.4c5a48f21df41614d489.png",
-    "static/media/slider2.png": "/absSubpplies/static/media/slider2.f1230840257e71c9b0f3.png",
-    "static/media/productBanner.png": "/absSubpplies/static/media/productBanner.8c75322cd2cb5ac88a18.png",
-    "static/media/logo.svg": "/absSubpplies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/slick.svg": "/absSubpplies/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/absSubpplies/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/absSubpplies/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "index.html": "/absSubpplies/index.html",
-    "static/media/slick.woff": "/absSubpplies/static/media/slick.295183786cd8a1389865.woff",
-    "main.11de4f61.css.map": "/absSubpplies/static/css/main.11de4f61.css.map",
-    "main.cc120c8d.js.map": "/absSubpplies/static/js/main.cc120c8d.js.map",
-    "453.35b5c829.chunk.js.map": "/absSubpplies/static/js/453.35b5c829.chunk.js.map"
+    "main.css": "/absSupplies/static/css/main.c20ad6aa.css",
+    "main.js": "/absSupplies/static/js/main.fae5a431.js",
+    "static/js/453.35b5c829.chunk.js": "/absSupplies/static/js/453.35b5c829.chunk.js",
+    "static/media/safety.mp4": "/absSupplies/static/media/safety.b6ad2f153b719ddb560d.mp4",
+    "static/media/slider3.jpg": "/absSupplies/static/media/slider3.ab969f86c11e3e27bc92.jpg",
+    "static/media/success.png": "/absSupplies/static/media/success.2f968d20fca873a5a69b.png",
+    "static/media/slider1.png": "/absSupplies/static/media/slider1.4c5a48f21df41614d489.png",
+    "static/media/slider2.png": "/absSupplies/static/media/slider2.f1230840257e71c9b0f3.png",
+    "static/media/productBanner.png": "/absSupplies/static/media/productBanner.8c75322cd2cb5ac88a18.png",
+    "static/media/logo.svg": "/absSupplies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/absSupplies/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/absSupplies/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/absSupplies/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/absSupplies/index.html",
+    "static/media/slick.woff": "/absSupplies/static/media/slick.295183786cd8a1389865.woff",
+    "main.c20ad6aa.css.map": "/absSupplies/static/css/main.c20ad6aa.css.map",
+    "main.fae5a431.js.map": "/absSupplies/static/js/main.fae5a431.js.map",
+    "453.35b5c829.chunk.js.map": "/absSupplies/static/js/453.35b5c829.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11de4f61.css",
-    "static/js/main.cc120c8d.js"
+    "static/css/main.c20ad6aa.css",
+    "static/js/main.fae5a431.js"
   ]
 }
