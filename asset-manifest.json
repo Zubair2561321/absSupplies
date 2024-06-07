@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/absSupplies/static/css/main.c20ad6aa.css",
-    "main.js": "/absSupplies/static/js/main.880a2a3f.js",
+    "main.css": "/absSupplies/static/css/main.271c0533.css",
+    "main.js": "/absSupplies/static/js/main.130000c7.js",
     "static/js/453.323e45d2.chunk.js": "/absSupplies/static/js/453.323e45d2.chunk.js",
     "static/media/safety.mp4": "/absSupplies/static/media/safety.b6ad2f153b719ddb560d.mp4",
     "static/media/slider3.jpg": "/absSupplies/static/media/slider3.ab969f86c11e3e27bc92.jpg",
@@ -15,12 +15,12 @@
     "static/media/slick.ttf": "/absSupplies/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/absSupplies/index.html",
     "static/media/slick.woff": "/absSupplies/static/media/slick.295183786cd8a1389865.woff",
-    "main.c20ad6aa.css.map": "/absSupplies/static/css/main.c20ad6aa.css.map",
-    "main.880a2a3f.js.map": "/absSupplies/static/js/main.880a2a3f.js.map",
+    "main.271c0533.css.map": "/absSupplies/static/css/main.271c0533.css.map",
+    "main.130000c7.js.map": "/absSupplies/static/js/main.130000c7.js.map",
     "453.323e45d2.chunk.js.map": "/absSupplies/static/js/453.323e45d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c20ad6aa.css",
-    "static/js/main.880a2a3f.js"
+    "static/css/main.271c0533.css",
+    "static/js/main.130000c7.js"
   ]
 }
