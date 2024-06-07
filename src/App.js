@@ -12,6 +12,7 @@ import Contact from "./Components/Contact";
 import { Home } from "./Pages/Home";
 import ProductDetail from "./Components/ProductDetail";
 import ContactUs from "./Pages/ContactUs";
+import Services from "./Pages/Services";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/about-us" element={<VideoBanner />} />
         <Route path="/contact-us" element={<ContactUs />} />
+        <Route path="/services" element={<Services />} />
         <Route path="/productDetail/:id" element={<ProductDetail />} />
         {/* <div className="App">
           
