@@ -21,8 +21,8 @@ function App() {
         <Route path="/absSupplies " element={<Home />} />
         <Route path="" element={<Home />} />
         <Route path="/" element={<Home />} />
-        <Route path="/about-us" element={<VideoBanner />}></Route>
-        <Route path="/contact" element={<ContactUs />} />
+        <Route path="/about-us" element={<VideoBanner />} />
+        <Route path="/contact-us" element={<ContactUs />} />
         <Route path="/productDetail/:id" element={<ProductDetail />} />
         {/* <div className="App">
           
